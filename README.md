@@ -1,8 +1,10 @@
 # programs_for_cv
-simple code for cv
 
-programs_for_cv,
-├─ README.md,                   # This file
-└─ python_sample,
-   ├─ README.md,
-   └─ main_gui_video_class.py,  # Async GUI with live video
+# samples of code for <b>cv</b>
+
+
+- programs_for_cv,
+- ├─ README.md,                   # This file
+- └─ python_sample,
+- - ├─ [README.md](python_sample/README.md), # Description of Async GUI program
+- -    └─ [main_gui_video_class.py](python_sample/main_gui_video_class.py),  # Async GUI with live video
