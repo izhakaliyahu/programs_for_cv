@@ -1,33 +1,46 @@
-# GUI Video in async mode
+# Project Title
 
 ## Table of Contents
 
 - [About](#about)
-- [Screenshots](#screenshots)
+- [Getting Started](#getting_started)
+- [Usage](#usage)
+- [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 
-Python >3.9
-Polma Izhak Eliyahu
-08 june 2022
-ver 0.1
+Write about 1-2 paragraphs describing the purpose of your project.
 
-A simple program in one file - for readability
-Makes two asynchronous processes:
-    - prints to terminal
-    - shows two forms in tkinter with internal camera video
+## Getting Started <a name = "getting_started"></a>
 
-Requires asyncio, opencv, Pillow, tkinter libraries to work
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
+### Prerequisites
 
-## Screenshots <a name = "screenshots"></a>
+What things you need to install the software and how to install them.
 
-<p align="center">
-    <img src="images_sample/init_.jpg" width="350" >
-    <p>Image 1 - view after run. Two Tkinter forms with some buttons. 
-    In one of them live video from internal cam.
-    In Terminial async printing of numbers from 1 to 50
+```
+Give examples
+```
 
-    <img src="images_sample/rotate90.jpg" width="350" >
-    <p>Image 2 - After click on button Rotate90
-</p>
+### Installing
+
+A step by step series of examples that tell you how to get a development env running.
+
+Say what the step will be
+
+```
+Give the example
+```
+
+And repeat
+
+```
+until finished
+```
+
+End with an example of getting some data out of the system or using it for a little demo.
+
+## Usage <a name = "usage"></a>
+
+Add notes about how to use the system.
