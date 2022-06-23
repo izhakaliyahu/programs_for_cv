@@ -28,7 +28,7 @@
     <img src="images_sample/init_.jpg" width="350">
     <br>Image 1 - view after run. Two Tkinter forms with some buttons. 
     In one of them live video from internal cam.
-    In Terminial async printing of numbers from 1 to 50.
+    In Terminial async printing of numbers from 0 to 49.
     <br><br>
     <br>
     <img src="images_sample/rotate90.jpg" width="350">
